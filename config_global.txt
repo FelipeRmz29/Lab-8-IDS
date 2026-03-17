@@ -1,1 +1,1 @@
-version_modulo=1.0
+version_modulo=1.1-UI
