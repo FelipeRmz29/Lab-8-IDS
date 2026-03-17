@@ -1,1 +1,1 @@
-#Lógica de pagos en Python
+#Lógica de pagos en Python.
