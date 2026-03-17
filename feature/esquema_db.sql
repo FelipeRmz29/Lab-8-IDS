@@ -10,3 +10,10 @@ create table usuarios(
     password varchar(255) not null
 );
 
+create table productos(
+    id_producto int auto_increment primary key,
+    nombre varchar(100) not null,
+    descripcion text,
+    precio decimal(10, 2) not null
+);
+
